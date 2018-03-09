@@ -1,0 +1,11 @@
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-6-zacheryBrunner\Ksu.Cis300.TravelingSalesperson\bin\Debug\Ksu.Cis300.TravelingSalesperson.exe.config
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-6-zacheryBrunner\Ksu.Cis300.TravelingSalesperson\bin\Debug\Ksu.Cis300.TravelingSalesperson.exe
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-6-zacheryBrunner\Ksu.Cis300.TravelingSalesperson\bin\Debug\Ksu.Cis300.TravelingSalesperson.pdb
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-6-zacheryBrunner\Ksu.Cis300.TravelingSalesperson\bin\Debug\KansasStateUniversity.TreeViewer2.dll
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-6-zacheryBrunner\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.UserInterface.resources
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-6-zacheryBrunner\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.Properties.Resources.resources
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-6-zacheryBrunner\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.csproj.GenerateResource.Cache
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-6-zacheryBrunner\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.csproj.CoreCompileInputs.cache
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-6-zacheryBrunner\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.exe
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-6-zacheryBrunner\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.pdb
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-6-zacheryBrunner\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.csprojResolveAssemblyReference.cache
