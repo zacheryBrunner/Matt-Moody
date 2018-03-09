@@ -1,0 +1,10 @@
+C:\Users\Zachery Brunner\Source\Repos\lab-assignment-40-zacheryBrunner\Ksu.Cis300.Sort\bin\Debug\Ksu.Cis300.Sort.exe.config
+C:\Users\Zachery Brunner\Source\Repos\lab-assignment-40-zacheryBrunner\Ksu.Cis300.Sort\bin\Debug\Ksu.Cis300.Sort.exe
+C:\Users\Zachery Brunner\Source\Repos\lab-assignment-40-zacheryBrunner\Ksu.Cis300.Sort\bin\Debug\Ksu.Cis300.Sort.pdb
+C:\Users\Zachery Brunner\Source\Repos\lab-assignment-40-zacheryBrunner\Ksu.Cis300.Sort\obj\Debug\Ksu.Cis300.Sort.csprojResolveAssemblyReference.cache
+C:\Users\Zachery Brunner\Source\Repos\lab-assignment-40-zacheryBrunner\Ksu.Cis300.Sort\obj\Debug\Ksu.Cis300.Sort.Properties.Resources.resources
+C:\Users\Zachery Brunner\Source\Repos\lab-assignment-40-zacheryBrunner\Ksu.Cis300.Sort\obj\Debug\Ksu.Cis300.Sort.UserInterface.resources
+C:\Users\Zachery Brunner\Source\Repos\lab-assignment-40-zacheryBrunner\Ksu.Cis300.Sort\obj\Debug\Ksu.Cis300.Sort.csproj.GenerateResource.Cache
+C:\Users\Zachery Brunner\Source\Repos\lab-assignment-40-zacheryBrunner\Ksu.Cis300.Sort\obj\Debug\Ksu.Cis300.Sort.csproj.CoreCompileInputs.cache
+C:\Users\Zachery Brunner\Source\Repos\lab-assignment-40-zacheryBrunner\Ksu.Cis300.Sort\obj\Debug\Ksu.Cis300.Sort.exe
+C:\Users\Zachery Brunner\Source\Repos\lab-assignment-40-zacheryBrunner\Ksu.Cis300.Sort\obj\Debug\Ksu.Cis300.Sort.pdb
