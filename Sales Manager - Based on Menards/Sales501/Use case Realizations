@@ -1,0 +1,30 @@
+Use-Case Realizations - Project 1 (Sales501)
+	1. Create sales transaction - The user selects to create a new receipt.  The system then
+	prompts the user to enter the date that the transaction took place.  The program will then
+	create a new receipt object and then the user is then prompted to enter the item's name, 
+	quantity, and price.  The user is then asked if they would like to enter another item.  
+	The process is repeated until until the user enters (N)o. The receipt is then printed 
+	to the screen and stored in the receipt dictionary in case it needs to be reprinted or modified.
+	The stored receipt can also be used to create a rebate if the user wants to.
+	
+	2. Return Item(s) - The user selects to return an item.  The user is then prompted for the 
+	receipt name to verify the transaction occurred.  After verifying that the transaction occurred, 
+	the program ensures that a rebate has not been made yet.  If a rebate has been made the user will 
+	be notified that the return can not occur because a rebate has already been created.  The user is 
+	asked which item they would like to return as well as the quantity they would like to return.
+	If the user enters a quantity that is more than they bought the program will inform them
+	that they cannot preform the refund because they cannot return more than they bought.  If the user
+	enters a successful number the program will remove the quantity of the item and if the user returns
+	the entire quantity then it will remove the item from the receipt.
+	
+	3. Enter Rebate - The user selects to create a rebate.  The program verifies that the purchase
+	was made in the month of June then prompts the user to enter when they "Mailed the rebate in."
+	If date entered was before the purchase date or after July 15 the program will inform the user 
+	that a rebate could not be made on the current check due to corresponding reason.  If information
+	verifies then the user is prompted with questions containing to first name, last name, address,
+	city, state and zip and a rebate is created.
+	
+	4. Generate Rebates - The user selects to generate rebates.  The program then traverses the dictionary
+	to print out the rebates by checking the current total on the check.  After all rebates that have been
+	mailed in are created the dictionary is cleared and adjustments on the receipts can no longer be made.
+	

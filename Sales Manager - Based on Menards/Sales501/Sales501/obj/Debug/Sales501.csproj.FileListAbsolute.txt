@@ -1,0 +1,6 @@
+C:\Users\Zachery Brunner\Source\Repos\BrunnerZachery-course-work\Project1\Sales501\Sales501\bin\Debug\Sales501.exe.config
+C:\Users\Zachery Brunner\Source\Repos\BrunnerZachery-course-work\Project1\Sales501\Sales501\bin\Debug\Sales501.exe
+C:\Users\Zachery Brunner\Source\Repos\BrunnerZachery-course-work\Project1\Sales501\Sales501\bin\Debug\Sales501.pdb
+C:\Users\Zachery Brunner\Source\Repos\BrunnerZachery-course-work\Project1\Sales501\Sales501\obj\Debug\Sales501.csprojResolveAssemblyReference.cache
+C:\Users\Zachery Brunner\Source\Repos\BrunnerZachery-course-work\Project1\Sales501\Sales501\obj\Debug\Sales501.exe
+C:\Users\Zachery Brunner\Source\Repos\BrunnerZachery-course-work\Project1\Sales501\Sales501\obj\Debug\Sales501.pdb
