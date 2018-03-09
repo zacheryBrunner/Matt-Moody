@@ -1,0 +1,7 @@
+﻿  io.c
+  bst.c
+  Proj2.c
+c:\users\zachery brunner\documents\visual studio 2017\projects\cis 308 projects and labs\cis 308\project 2\project 2\brunnerz_project2\brunnerz_project2\proj2.c(41): warning C4013: 'memset' undefined; assuming extern returning int
+  Generating Code...
+  Brunnerz_Project2.vcxproj -> C:\Users\Zachery Brunner\Documents\Visual Studio 2017\Projects\CIS 308 PROJECTS AND LABS\CIS 308\Project 2\Project 2\Brunnerz_Project2\Debug\Brunnerz_Project2.exe
+  Brunnerz_Project2.vcxproj -> C:\Users\Zachery Brunner\Documents\Visual Studio 2017\Projects\CIS 308 PROJECTS AND LABS\CIS 308\Project 2\Project 2\Brunnerz_Project2\Debug\Brunnerz_Project2.pdb (Partial PDB)

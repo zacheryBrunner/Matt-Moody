@@ -1,0 +1,10 @@
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-2-zacheryBrunner2\Ksu.Cis300.ConnectFour\bin\Debug\Ksu.Cis300.ConnectFour.exe.config
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-2-zacheryBrunner2\Ksu.Cis300.ConnectFour\bin\Debug\Ksu.Cis300.ConnectFour.exe
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-2-zacheryBrunner2\Ksu.Cis300.ConnectFour\bin\Debug\Ksu.Cis300.ConnectFour.pdb
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-2-zacheryBrunner2\Ksu.Cis300.ConnectFour\obj\Debug\Ksu.Cis300.ConnectFour.csprojResolveAssemblyReference.cache
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-2-zacheryBrunner2\Ksu.Cis300.ConnectFour\obj\Debug\Ksu.Cis300.ConnectFour.Properties.Resources.resources
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-2-zacheryBrunner2\Ksu.Cis300.ConnectFour\obj\Debug\Ksu.Cis300.ConnectFour.ConnectFour.resources
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-2-zacheryBrunner2\Ksu.Cis300.ConnectFour\obj\Debug\Ksu.Cis300.ConnectFour.csproj.GenerateResource.Cache
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-2-zacheryBrunner2\Ksu.Cis300.ConnectFour\obj\Debug\Ksu.Cis300.ConnectFour.csproj.CoreCompileInputs.cache
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-2-zacheryBrunner2\Ksu.Cis300.ConnectFour\obj\Debug\Ksu.Cis300.ConnectFour.exe
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-2-zacheryBrunner2\Ksu.Cis300.ConnectFour\obj\Debug\Ksu.Cis300.ConnectFour.pdb
