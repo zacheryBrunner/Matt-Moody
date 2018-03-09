@@ -1,0 +1,11 @@
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-5-zacheryBrunner\Ksu.Cis300.TextAnalyzer\bin\Debug\Ksu.Cis300.TextAnalyzer.exe.config
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-5-zacheryBrunner\Ksu.Cis300.TextAnalyzer\bin\Debug\Ksu.Cis300.TextAnalyzer.exe
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-5-zacheryBrunner\Ksu.Cis300.TextAnalyzer\bin\Debug\Ksu.Cis300.TextAnalyzer.pdb
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-5-zacheryBrunner\Ksu.Cis300.TextAnalyzer\bin\Debug\KansasStateUniversity.TreeViewer2.dll
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-5-zacheryBrunner\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-5-zacheryBrunner\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.UserInterface.resources
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-5-zacheryBrunner\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.Properties.Resources.resources
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-5-zacheryBrunner\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.csproj.GenerateResource.Cache
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-5-zacheryBrunner\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-5-zacheryBrunner\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.exe
+C:\Users\Zachery Brunner\Source\Repos\homework-assignment-5-zacheryBrunner\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.pdb
